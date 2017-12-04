@@ -47,4 +47,4 @@ id,title,episodeUIDs,levelToUnlock,goldToUnlock,previewImageURL,bgImageURL,mapEa
 46,I Don't Wanna Live Forever,,0,0,,,https://raw.githubusercontent.com/lublub2712/voxsongs/master/levels/046-easy.txt,,,7F37r50VUTQ,1,,,,
 47,Fly Away,,0,0,,,https://raw.githubusercontent.com/lublub2712/voxsongs/master/levels/047-easy.txt,,https://raw.githubusercontent.com/lublub2712/voxsongs/master/levels/047-medium.txt,cMg8KaMdDYo,1,,,,
 48,Top Of The World,,0,0,,,https://raw.githubusercontent.com/lublub2712/voxsongs/master/levels/TopOfTheWorld.Tag.txt,,,-7avbtzm98Y,1,,,,
-49,Din Don Dan 2,,0,0,,,,,https://raw.githubusercontent.com/lublub2712/voxsongs/master/levels/049-hard.txt,LwBIiE3Ef6M,1,,,,
+49,Din Don Dan 2,,0,0,,,https://raw.githubusercontent.com/lublub2712/voxsongs/master/levels/049-easy.txt,https://raw.githubusercontent.com/lublub2712/voxsongs/master/levels/049-medium.txt,https://raw.githubusercontent.com/lublub2712/voxsongs/master/levels/049-hard.txt,LwBIiE3Ef6M,1,,,,
